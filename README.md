@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Verdana&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Ankur+Ram.;Nice+to+meet+you+👋" />
 </h1>
 
-## ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkurRam2002&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurRam2002)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurRam2002&langs_count=5)](https://github.com/AnkurRam2002/github-readme-stats)
 <!--
 **AnkurRam2002/AnkurRam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
