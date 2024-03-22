@@ -16,9 +16,10 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,bootstrap,tailwind,react,materialui,nodejs,express,flask,mongodb,mysql,sqlite,regex,bash,kali,git,github,figma,gcp,npm,md,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,bootstrap,tailwind,react,materialui,nodejs,express,flask,mongodb,mysql,sqlite,regex,bash,kali,git,github,graphql,next,figma,gcp,npm,md,&perline=12" />
   </a>
 </p>
+
 
 ###
 <h3 align="center">-</h3>
