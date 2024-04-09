@@ -17,7 +17,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,java,python,js,typescript,bootstrap,tailwind,react,redux,materialui,nodejs,express,jest,flask,mongodb,mysql,sqlite,regex,bash,kali,git,github,graphql,next,figma,gcp,npm,md,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,java,python,js,typescript,bootstrap,tailwind,react,redux,materialui,nodejs,express,docker,jest,flask,mongodb,mysql,sqlite,regex,bash,git,github,graphql,next,figma,gcp,npm,md,&perline=12" />
   </a>
 </p>
 
