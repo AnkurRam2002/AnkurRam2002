@@ -17,22 +17,6 @@
 </a>
 </div>
 
-<h1 align="center">My Skills</h1>
-    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,bootstrap,tailwind,react,redux,materialui,nodejs,express,firebase,docker,jest,flask,mongodb,mysql,sqlite,bash,git,github,graphql,next,figma,gcp,npm,md&perline=12" />
-  </a>
-</p>
-
-<h1 align="center">Scripting and Programming Languages</h1>
-    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,md&perline=12" />
-  </a>
-</p>
-
 <h1 align="center">Frontend Stack</h1>
     
 <p align="center">
@@ -46,6 +30,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,npm,&perline=12" />
+  </a>
+</p>
+
+<h1 align="center">Scripting and Programming Languages</h1>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,md&perline=12" />
   </a>
 </p>
 
