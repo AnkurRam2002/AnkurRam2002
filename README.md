@@ -33,6 +33,13 @@
   </a>
 </p>
 
+<h1 align="center">Frontend Stack</h1>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,materialui,next,figma&perline=12" />
+  </a>
+</p>
 
 <h3 align="center">-</h3>
 
