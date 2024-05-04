@@ -21,7 +21,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,bootstrap,tailwind,react,redux,materialui,nodejs,express,firebase,docker,jest,flask,mongodb,mysql,sqlite,bash,git,github,graphql,next,figma,gcp,npm,md,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,bootstrap,tailwind,react,redux,materialui,nodejs,express,firebase,docker,jest,flask,mongodb,mysql,sqlite,bash,git,github,graphql,next,figma,gcp,npm,md&perline=12" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,md,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,md&perline=12" />
   </a>
 </p>
 
@@ -38,6 +38,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,materialui,next,figma&perline=12" />
+  </a>
+</p>
+
+<h1 align="center">Backend Stack</h1>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,figma,npm,&perline=12" />
   </a>
 </p>
 
