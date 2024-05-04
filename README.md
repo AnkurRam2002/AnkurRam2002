@@ -37,7 +37,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,materialui,next,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,materialui,next&perline=12" />
   </a>
 </p>
 
@@ -45,7 +45,15 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,figma,npm,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,npm,&perline=12" />
+  </a>
+</p>
+
+<h1 align="center">Utilities</h1>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,jest,bash,git,github,figma,gcp&perline=12" />
   </a>
 </p>
 
