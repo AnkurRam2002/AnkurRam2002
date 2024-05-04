@@ -29,7 +29,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,npm,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,sqlite,graphql,npm&perline=12" />
   </a>
 </p>
 
