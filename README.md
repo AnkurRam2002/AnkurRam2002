@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Ankur+Ram.;Nice+to+meet+you+👋" />
 </h1>
 
-<h1 align="center">My Stats</h1>
+<h1 align="center">Github Activity</h1>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurRam2002&theme=blue-green" />
@@ -25,6 +25,13 @@
   </a>
 </p>
 
+<h1 align="center">Scripting and Programming Languages</h1>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,typescript,md,&perline=12" />
+  </a>
+</p>
 
 
 <h3 align="center">-</h3>
