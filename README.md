@@ -45,7 +45,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jest,bash,git,github,figma,gcp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=docker,jest,bash,git,github,kafka&perline=12" />
   </a>
 </p>
 
