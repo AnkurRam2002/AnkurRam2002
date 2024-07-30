@@ -21,7 +21,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite,react,redux,materialui,next&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite,react,redux,materialui,next,htmx&perline=12" />
   </a>
 </p>
 
