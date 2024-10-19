@@ -8,6 +8,9 @@
 </h1>
 
 <h1 align="center">Github Activity</h1>
+
+<h1 align="center"><img src="https://github.com/subho004/subho004/blob/output/snake.svg" alt="Snake animation" /></h1>
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurRam2002&theme=blue-green" />
