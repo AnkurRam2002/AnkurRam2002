@@ -9,6 +9,8 @@
 
 <h1 align="center">Github Activity</h1>
 
+<h1 align="center"><img alt="github-snake" src="https://github.com/AnkurRam2002/AnkurRam2002/blob/9534688be3c52f60022a6612ad94ea6fb4dc82b5/dist/snake.svg" /></h1>
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurRam2002&theme=blue-green" />
