@@ -13,7 +13,7 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurRam2002&theme=blue-green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurRam2002&rank_icon=github&include_all_commits=true&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurRam2002&theme=blue-green&layout=compact" />
