@@ -2,14 +2,11 @@
     
 **`Fullstack Web Developer`**
 </h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ankurram2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankurram2002" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Ankur+Ram.;Nice+to+meet+you+👋" />
 </h1>
 
 <h1 align="center">Github Activity</h1>
-
-<h1 align="center"><img alt="github-snake" src="https://github.com/AnkurRam2002/AnkurRam2002/blob/e01a3c3b80c590774b1fb37891ee2c554ce18837/dist/snake.svg" /></h1>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
