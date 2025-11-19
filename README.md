@@ -32,7 +32,7 @@
 </details>
 </h2>
 
-<h1 align="center">Frontend Stack</h1>
+<h2 align="center">Frontend Stack</h2>
     
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,15 +40,15 @@
   </a>
 </p>
 
-<h1 align="center">Backend Stack</h1>
+<h2 align="center">Backend Stack</h2>
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,mongodb,mysql,redis,sqlite,graphql,npm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=express,nest,flask,mongodb,postgres,redis,mysql,aws&perline=12" />
   </a>
 </p>
 
-<h1 align="center">Scripting and Programming Languages</h1>
+<h2 align="center">Scripting and Programming Languages</h2>
     
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,11 +56,11 @@
   </a>
 </p>
 
-<h1 align="center">Utilities</h1>
+<h2 align="center">Utilities</h2>
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jest,bash,git,github,kafka&perline=12" />
+    <img src="https://skillicons.dev/icons?i=docker,jest,bash,git,rabbitmq&perline=12" />
   </a>
 </p>
 
